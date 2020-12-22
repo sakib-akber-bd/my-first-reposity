@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>index.html</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Sakib Akber">
+    <meta name="description" content="My first reposity in github.">
+    <meta name="keywords" content="programming hero, web playground"> 
+    
+
+    <!--custom css-->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+    <h3>Hello World</h3>
+
+    
+
+</div>
+</body>
+</html>
